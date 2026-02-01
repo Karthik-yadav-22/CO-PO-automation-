@@ -1,0 +1,27 @@
+# Co-attainment scores:
+
+CO1 = 2.81,
+CO2 = 2.85,
+CO3 = 3,
+CO4 = 3,
+CO5 = 0.95
+
+# Course Outcomes:
+
+CO1: Understand relational model and database design,
+CO2: Apply normalization techniques,
+CO3: Write SQL queries,
+CO4: Implement transactions and concurrency control 
+
+# Program Outcomes:
+
+PO1: Apply mathematics and engineering fundamentals,
+PO2: Analyze and solve complex engineering problems,
+PO3: Design efficient systems and solutions,
+PO4: Use modern engineering tools
+
+# Questions:
+
+Explain ACID properties of DBMS
+Write PL/SQL query to get details of first 10 emp
+Draw an ER diagram for university database
